@@ -1,0 +1,353 @@
+C1:M1 YAZIM ORTAMI KONTROLÜ
+
+Herhangi bir hata bulunamamıştır.
+
+C1:M2 YAZILARIN NİTELİK KONTROLÜ
+
+Tez dosyasının kullandığı font türü yanlıştır. Font: QZUVMC+MinionPro-Bold
+Tez dosyasının kullandığı font boyutu yanlıştır. Font boyutu: 1
+
+C2:M5 ANLATIM KONTROLÜ
+
+1. sayfa taranıyor...
+2. sayfa taranıyor...
+3. sayfa taranıyor...
+4. sayfa taranıyor...
+5. sayfa taranıyor...
+6. sayfa taranıyor...
+7. sayfa taranıyor...
+8. sayfa taranıyor...
+9. sayfa taranıyor...
+10. sayfa taranıyor...
+11. sayfa taranıyor...
+12. sayfa taranıyor...
+13. sayfa taranıyor...
+14. sayfa taranıyor...
+15. sayfa taranıyor...
+16. sayfa taranıyor...
+17. sayfa taranıyor...
+18. sayfa taranıyor...
+19. sayfa taranıyor...
+20. sayfa taranıyor...
+21. sayfa taranıyor...
+22. sayfa taranıyor...
+23. sayfa taranıyor...
+24. sayfa taranıyor...
+25. sayfa taranıyor...
+26. sayfa taranıyor...
+27. sayfa taranıyor...
+
+Toplamda 28 sayfa tarandı. Bulunan cümleler %10 hata payı ile doğrudur.
+Bulunan toplam cümle sayısı: 245
+Bulunan cümleleri görüntülemek istiyor iseniz 1'e basınız: 1
+
+1.cümle: Suriye'de 2011 yılında yönetim ile muhalif bazı gruplar arasında başlayan ve bugün itibariyle hala devam eden çatışmalar sebebiyle 6 milyona yakın Suriyeli ülke sınırlarını terk ederek başka ülkelere sığınmıştır.
+2.cümle: Suriye ile en uzun kara sınırına sahip olan Türkiye de 3çatışmalar başladığında açık kapı politikası uygulayarak sınırlarını savaş mağduru Suriyelilere açmıştır. 21.06.2018 itibariyle Göç İdaresi Genel Müdürlüğü'nün açıkladığı resmi kayıtlara göre 3.570.752 Suriyeli Türkiye'de geçici koruma statüsünde yaşamına devam etmektedir.
+3.cümle: Suriyelilerin nasıl ele alındığını ortaya koymaktır.
+4.cümle: Türkiye'deki Suriyeliler hakkında yapılan ve YÖK'ün ulusal tez merkezine yüklenmiş lisansüstü tezlerin doküman incelemesi tekniğiyle incelenerek, akademideki Suriyeli algısına ilişkin bir durum değerlendirmesi yapılması amaçlanmaktadır.
+5.cümle: İnceleme sonucunda elde edilen bulgular frekans tablolarıyla gösterilerek yorumlanmıştır.
+6.cümle: Anahtar Kelimeler: Dış Göç, Mülteci, Suriyeli, Tez.1 Arş.Gör., Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Sosyal Hizmet Bölümü, e-posta: oktay.tatlicioglu@dicle.edu.tr2 Dr.Öğr.Üyesi, Bingöl Üniversitesi Fen Edebiyat Bilimler Fakültesi Sosyal Hizmet Bölümü, e-posta: hapak@bingöl.edu.tr 3 Makale boyunca Türkiye'ye iltica eden ve geçici koruma statüsünde olan Suriyelileri tanımlamak için sadece Suriyeli kavramı kullanılmıştır.
+7.cümle: Çünkü sığınmacı ve mülteci kavramları sosyolojik olarak kullanılabilir olsa da hukuki statü olarak uygun olmadığından kavram karmaşası oluşmaması için sadece Suriyeli kavramı tercih edilmiştir.227Gönderim Tarihi: 27.06.2018 Kabul Tarihi: 23.10.2018AbstractSyria's conflict has devolved from the protests against the government in 2011 to an ongoing violent insurgency that driven 6 million people out of their countries.
+8.cümle: Having the longest borders with Syria, Turkey provided an open gate policy for those aeff cted by the conflict.
+9.cümle: According to the numbers released by the General Directorate of Migration, there are 3 million 523 thousand 981 Syrians have been living in Turkey under the temporary protection law as of 15 February 2018. The aim of this study is to analyze how Syrians examined in graduate dissertations.
+10.cümle: For this purpose, dissertations about Syrians that uploaded into the YOK national Thesis Center will be analyzed with document analysis method in order to evaluate the perceptions of Syrian migrants in academia.
+11.cümle: Findings obtained as a result of the examination are interpreted by showing frequency tables.
+12.cümle: Keywords: Migration, Refugee, Syrian, Graduate Dissertations228Oktay TATLICIOĞLU, Hıdır APAKGirişGöç, neredeyse tarihin her döneminde karşılaşılan bir olgu olmakla beraber yaşadığımız çağda sosyal, ekonomik ve politik açılardan daha da önem kazanmıştır.
+13.cümle: Yirminci yüzyılın ikinci yarısından itibaren artan bir önemle tartışılmaya başlayan 'göç' olgusu, yirmi birinci yüzyılın sosyolojik karakterini en iyi tarif eden kavramlardan bir tanesidir (Tuna ve Özbek, 2012: s. 7).  İnsan gruplarının hareketliliği beraberinde yaşanan etkileşimler, sosyal yapıları tekrar gözden geçirmeyi zorunlu kılmaktadır.
+14.cümle: Farklı dil, inanç ve kültürün öznesi ve taşıyıcısı olarak mülteci ve sığınmacılar, farklılıklarıyla yerleşilen yerle zorunlu sosyal ilişkiler kurarak o toplumla bütünleştirilmektedir.
+15.cümle: Yaşanan göçler bütüncül bir şekilde anlaşılması için yapılan bütün disiplinler çalışmaları göç araştırmaları olarak nitelendirebiliriz.
+16.cümle: Göç insan hakları temelinde tanımlanması, sosyal bütünleşmenin ve barışın sağlanması, nüfus hareketliliğinin ekonomik açıdan analiz edilmesi, ülke içindeki kamusal hizmetlerin (eğitim, sağlık, sosyal hizmetler, istihdam vb.) yeniden planlanması, toplumsal öznelerin ve toplumsal değerlerin anlaşılması için göç araştırmaları çok önemlidir.  Göç konusunda yapılan lisansüstü çalışmalar alanyazının önemli bir parçasını oluşturmaktadır.
+17.cümle: Türkiye'de geçici koruma statüsünde ikamet eden Suriyeliler hakkında yapılan lisansüstü çalışmalar derlenerek bu çalışmaların profili ortaya konmaya çalışılmıştır.
+18.cümle: Göç Araştırmalarının NiteliğiGöç olgusu bütün insani süreçleri içinde barındıran çok karmaşık bir sosyal olaydır.
+19.cümle: Göç, iltica ve mültecilik bugün dünya çapında olduğu gibi Türkiye'de de gerek teorik gerekse uygulamaya dayalı araştırma boyutlarıyla akademik alanda her geçen gün önem kazanmaktadır.
+20.cümle: Çünkü Türkiye, hem göç alan, hem de göç veren bir ülkedir.
+21.cümle: Özellikle de Türkiye'nin Irak ve Suriye komşu ülkelerinde son yıllarda yaşanan iç çatışmalar Türkiye'yi iltica hareketliliğinin merkezi haline getirmiştir.
+22.cümle: Türkiye'de yapılan göç araştırmalarının başlangıcı olarak 1960'lı yıllarda Avrupa ülkelerine (özellikle Almanya ve Fransa) göç eden Türkiye 229Cumhuriyeti vatandaşları hakkındaki çalışmalar olduğu görülmektedir. 1990'lı yıllardan itibaren Türkiye'ye komşu olan ülkelerde yaşanan istikrarsızlıklar Türkiye'yi bir çekim alanına çevirmiştir.
+23.cümle: Çünkü Türkiye, coğrafi olarak, istikrarsızlık yaşayan hem Bulgaristan ve Irak ile sınır komşusudur, hem bu ülkelere göre daha istikrarlı bir ülkedir hem de Türkiye'nin doğusundan gelen iltica talepleri için Avrupa ülkelerine geçiş noktasında transit bir ülke konumundadır.
+24.cümle: Özellikle Bulgaristan'dan asimilasyondan kaçan Türkler ve Körfez Savaşı sonrası Irak yönetimine karşı ayaklanan Kürtler kitlesel olarak Türkiye'ye iltica etmek zorunda kalmışlardır.
+25.cümle: Yine Türkiye sınırları içinde terör sebebiyle Doğu Anadolu ve Güneydoğu Anadolu bölgelerindeki bazı köylerin boşaltması ülke içinde önemli bir nüfusun zorunlu göçü ile sonuçlanmıştır.
+26.cümle: İçduygu, 1996; Kaya 1998; Kirişçi, 1995; Sirkeci, 1996).2000'li yıllarda Afganistan, İran, Irak gibi ülkelerden iltica eden sığınmacılar, düzensiz göçmenler, emek göçü, Ege ve Akdeniz sahilleri üzerinden Avrupa'ya geçmek isteyen mülteciler, iltica hukuku, sığınmacıların sosyal ve ekonomik soruları gibi birbirinden farklı konularda araştırmaların yapılmıştır (IOM, 1995; İçduygu; 1996; Sirkeci, 1996; Kaya, 1998; İçduygu, 2003; 2004).2011'de başlayan halen devam eden Suriye'deki iç çatışma nedeniyle Türkiye'ye sığınan Suriyelilerle beraber göç araştırmalarının sayısında bir artış söz konusu olmuştur.
+27.cümle: Suriye'deki çatışmaların bitmesine ilişkin beklentilerin azalması, Suriyelilerin Türkiye'de kalış sürelerinin uzaması ve Suriye'den Türkiye'ye sığınan nüfusun niceliksel olarak fazla olması göç araştırmalarını Suriyelilere yönlendirmiştir.
+28.cümle: Türkiye'de lisansüstü düzeyde Suriyeliler üzerine yapılan çalışmalar hakkında bir değerlendirmenin yapılması gerektiği düşünülmektedir.
+29.cümle: Siyaset bilimi, iktisat, işletme, psikoloji, sosyoloji, uluslararası ilişkiler, tıp gibi pek çok alanda Suriyeliler hakkında araştırmalar yaparak alanyazının çeşitlenmesine ve zenginleşmesine katkıda bulunmuştur.
+30.cümle: Yapılan araştırmaların temalarına bakıldığında eğitim, sosyal bütünleşme, sağlık hizmetleri, ekonomi, Suriyeli ve Türkiyeli insanların birbirleri hakkındaki görüşleri, göç deneyimleri Suriyelilerin gelecek 230Oktay TATLICIOĞLU, Hıdır APAKbeklentileri gibi konular olduğu görülmektedir (Seçer, 2017; Düzkaya, 2016; Olgun, 2017; Karataştan, 2017; Uludağ, 2016; Ercoşkun, 2015; Apak, 2014; Gürcüoğlu, 2015). Bu çalışmada Türkiye'de 2011 yılından itibaren yaşanan Suriyeli göçü üzerine yazılmış lisansüstü tezlerin genel bir çerçevesini çizmenin yararlı olacağı düşünülmüştür.
+31.cümle: Suriyeli konulu tezlerin farklı değişkenler açısından incelenerek dağılımlarının çıkarılması, bu konunun farklı açılardan sınıflanmasını, hangi alanlarda Suriyelilerin daha çok inceleme konusu yapıldığının belirlenmesi ve hangi konuların çalışılmadığının saptanması açılarından katkı sağlayacağı düşüncesinden hareketle ortaya çıkmıştır.
+32.cümle: Yıllara göre tez dağılımı ve konularının belirlenmesi ile de Türkiye'de toplumsal ve siyasal gelişmelerin tez konularının seçimine nasıl yansıdığını ve yıllara göre Suriyelilere ilginin yönünün ortaya konması bakımından önem arz etmektedir.
+33.cümle: Suriyeliler hakkında yazılan tezlerin içeriğine de bakılmak istenmişse de bu mümkün olmamıştır ve nedeniyle araştırma özetleri ve künye bilgileri ile yetinmek zorunda kalınmıştır.  Araştırmanın Türkiye'de Suriyelileri konu alan tezlerin genel çerçevesini görmek bakımından yararlı olacağı umulmaktadır.
+34.cümle: YöntemAraştırmada yöntem olarak nitel araştırma yöntemi kullanılmıştır.
+35.cümle: Nitel araştırma, gözlem, görüşme ve doküman analizi gibi nitel veri toplama tekniklerinin kullanıldığı araştırma olarak tanımlamak mümkündür (Yıldırım ve Şimşek, 2013: s. 45). Bu çalışmada da nitel veri toplama tekniklerinden doküman analizi kullanılmıştır.
+36.cümle: Araştırmaya ilişkin veriler YÖK Tez Tarama Kataloğu kullanılarak, başlangıç tarihini seçilmeden 26 Şubat 2018 tarihine kadar "Suriyeli", "Mülteci" ve "İltica" kavramını aratılarak Türkiye'ye iltica etmiş Suriyelilerle ilgili lisansüstü çalışmalardan elde edilmiştir.
+37.cümle: Mülteci ve iltica kavramları tez başlığında bir araştırma hariç hepsinde Suriyeli kavramıyla beraber kullanılmıştır.  YÖK Tez Tarama Kataloğundan Suriyeliler hakkında tez sayısının 96 olduğu tespit edilmiştir.231Türkiye'deki Suriyeliler hakkında yapılan ve YÖK'ün ulusal tez merkezine yüklenmiş lisansüstü tezlerin doküman incelemesi tekniğiyle incelenerek, akademideki Suriyeli algısına ilişkin bir durum değerlendirmesi yapılması amaçlanmıştır.
+38.cümle: Bulguların YorumuYapılan 96 çalışmanın 80'i yüksek lisans (%85,4), 10'u tıpta uzmanlık (%10,4) ve 6'sı ise doktora düzeyinde (%4,2) yapılan çalışmalardır.
+39.cümle: Suriyeliler üzerine yapılan lisansüstü tezlerin çok azının doktora tezi olması önemli bir eksiklik olarak göze çarpmaktadır.
+40.cümle: Bunun nedenleri olarak, doktora programlarının yüksek lisans ve tıpta uzmanlık programlarından daha uzun sürmesi ve Suriye'deki çatışmanın ne zaman biteceğinin öngörülememesinden kaynaklanan çekimserlik ve Türkiye'deki üniversitelerde yüksek lisans ve tıpta uzmanlık programlarının doktora programlarından daha az olması gibi nedenler sayılabilir.
+41.cümle: Lisansüstü tezlerin 40'ı (%41,7) tarama kataloğundan paylaşıma açık değildir.
+42.cümle: Diğer 56 tez (%58,3) paylaşıma açık olup bu tezlere erişilebilmiştir.
+43.cümle: Paylaşıma kapalı olan araştırmaların yakın zamanda kitaplaşarak okuyucu sunulması öngörülmektedir.
+44.cümle: Grafik 1: Yapılan Tezlerin Türünün Yıllara Göre Sayısı40343530262520161510445 33221 102013 2014 2015 2016 2017Yüksek Lisans Doktora Tıpta Uzmanlık232Oktay TATLICIOĞLU, Hıdır APAKYÖK Tez Tarama Kataloğunda Suriyeliler üzerine yapılan ilk tez 2013 yılında yazılmıştır. 2011 yılında Suriye'den Türkiye'ye başlayan göç akınından 2 yıl sonra 2013 yılında tıpta uzmanlık seviyesinde 2 lisansüstü tez yayınlanmıştır.
+45.cümle: Arslanhan (2013) tarafından yazılmış "Suriye iç savaşı sırasında Suriyeli sivillerde oluşan göz yaralanmalarının sıklığı ve şiddeti" başlıklı tezidir.
+46.cümle: Suriye iç savaşından kaçarak Türkiye'ye sığınan, hastanelere başvuran Suriyelilerde oluşan göz yaralanmalarının sonuçları araştırılmıştır.
+47.cümle: Diğer tıpta uzmanlık tezi ise Sağaltıcı (2013) tarafından kaleme alınmış "Suriyeli mültecilerde travma sonrası stres bozukluğu taraması" isimli tezdir.
+48.cümle: Suriyelilerde travma sonrası stres bozukluğu sıklığını saptamak, seyrini değerlendirmek ve çeşitli sosyo-demografik değişkenler ile ilişkisini araştırmayı amaçlamıştır.
+49.cümle: Grafik 1'e bakıldığında 2014 yılında 4 yüksek lisans ve 2 tıpta uzmanlık tezinin yapıldığı görülmektedir.
+50.cümle: Tıpta uzmanlık tezleri 2013 yılına benzer olarak daha çok savaş yaralanmaları üzerine yazılmıştır.
+51.cümle: Tıpta uzmanlık tezleri 2014 yılında da daha çok savaş yaralanmaları üzerine yazılmıştır.
+52.cümle: Burada yazılan tezler Mustafa Kemal Üniversitesi'nde (Hatay) Suriye ile sınırı olan ve savaş yaralanmalarının tedavi edilebileceği bir bölgede yazıldığı dikkat çekicidir.
+53.cümle: Ayrıca bu yılda lisansüstü tezler bağlamında yüksek lisans tezlerinin de yayınlandığı tespit edilmiştir.
+54.cümle: Suriyelilerin savaş ve göçle nasıl baş edecekleri ve göç ettikleri bölgelere nasıl uyum sağlayacakları üzerine olmuştur.
+55.cümle: Suriyelilerle savaş yaralanmaları, başa çıkma, uyum ve ekonomik hayata katılım alanları araştırılmış, göçün ilk dönemlerinde göçün yarattığı değişime uyum sağlama yolları hakkında öneriler sunulmuştur.2015 yılı doktora seviyesinde ilk çalışmanın yayınlandığı yıldır.
+56.cümle: Doğan (2015) tarafından yazılmış tezin adı ,"televizyon haberlerinde nefret söylemi: 233Suriyeli sığınmacılar örnek olayı" şeklindedir.
+57.cümle: Suriyeliler hakkındaki nefret söylemi doküman analiziyle ortaya konmaya çalışılmıştır.
+58.cümle: Göç eden bireyler "biz" ve "yabancı" algısı üzerinden nefret söyleminin hedefi olabilmektedir.
+59.cümle: Suriyeliler üzerinde nefret söylemi incelenmiştir.
+60.cümle: Araştırmada, televizyon haberlerinin nefret söyleminin dolaylı olarak parçası olduğu, özellikle haber başlıklarında, yinelenen ifadelerde veya yorum ve demeçlerde nefret söyleminin aktarıcısı olduğu ortaya konulmuştur.2015 yılında tıpta uzmanlık tezlerine rastlanmamaktadır.
+61.cümle: Bunun yanında 2014 yılına oranla dört kat daha fazla yüksek lisans tezi yayınlanmıştır.
+62.cümle: Türkiye'ye bir milyona yakın Suriyelinin giriş yapması gösterilebilir.
+63.cümle: Ayrıca bir yüksek lisans tezinin hazırlanıp yayınlanabilmesi için en az bir yıllık süreye ihtiyaç vardır.
+64.cümle: Yani 2015 yılında yayımlanan bir teze 2014 yılında başlamış olmak gerekir.
+65.cümle: Buradan çıkacak sonuç, 2011 yılında başlayan Suriyeli göçü ancak savaşın üçüncü yılında (2014) akademinin dikkatini daha çok çekmiştir. 2015 yılında yapılan yüksek lisans tezlerinde en fazla dikkat çeken konu ise toplumsal kabul ve uyum tartışmalarıdır.
+66.cümle: Türkiye'ye göç eden Suriyeliler beraberlerinde getirdikleri farklı kültürel, sosyal ve politik deneyimleri ile tüm bunların tartışıldığı yeni alanlar açmaktadır.
+67.cümle: Uyum süreci bireyin yeni çevresiyle dengeli bir ilişki kurabilmesi ve bunu sürdürebilmesidir (Apak, 2014).  Göçle birlikte pek çok açıdan birbirinden farklı geçmişe sahip bireyler dil, din, gelenek ve kültür gibi bileşenler ile birlikte aynı ortamda yaşamını sürdürmek durumunda kalmaktadır (Aksoy, 2012: s. 297). Yapılan tezlerin incelenmesi araştırmasında Suriyelilerin, Türkiye toplumuna uyum sağlayabilmesi ve sosyal kabul görüp görmeyeceği birçok araştırmanın konusu olduğu görülmüştür.
+68.cümle: Burada önemli olan nokta, Türkiye'de göç çalışmalarında uyum konusu genellikle yurtdışındaki Türklerle ilgili tartışıldığı fakat Suriyelilerle birlikte artık kendi içinde tartışacak hale gelmiş olmasıdır (Erdoğan, 2015: ss. 209-220).Suriyeli vurgusu yıllar geçtikçe lisansüstü tezlerde sayı olarak neredeyse katlanarak işlenmeye devam etmiştir. 2011 sonrasında gerçekleşen Suriyeli göçü sadece Türkiye için değil tüm dünya için sıra dışı bir göç hareketidir. 234Oktay TATLICIOĞLU, Hıdır APAKÇok fazla sayıda insan zorunlu nedenlerle birçok farklı ülkeye göç etmişlerdir ve bu durum kolay yönetilebilir bir sorun değildir.
+69.cümle: Böylesine kapsamlı büyük değişimleri beraberinde getiren bir olguya da sosyal bilimin kayıtsız kalması düşünülemez. 2016 yılında da yine çoğunluğu yüksek lisans tezleri olmak üzere, doktora ve tıpta uzmanlık tezlerinin yayınlandığı tespit edilmiştir. 2016 yılında çalışmaların artmasının bir nedeni olarak Türkiye - Avrupa Birliği arasında geçen mülteci anlaşmaları müzakereleri önemli bir yer tutmaktadır.
+70.cümle: Nitekim bu dönemde yüksek lisans tezlerinde de en fazla Avrupa Birliği (AB) mülteci politikaları, yerel halkla etkileşim, göçün ekonomik ve sosyal etkileri ve göç yönetimi gibi konular tartışılmıştır.
+71.cümle: Tezel (2016) tarafından yazılan "Understanding state-civil society relations in education provision for non-camp syrian children in Turkey (Türkiye'de kamp dışı suriyeli çocuklar için eğitim sağlanmasında devlet-sivil toplum ilişkisini anlamak) isimli doktora tezinde çocukların eğitim sorunu ve STK'ların işleyişi gündeme gelmiştir.
+72.cümle: Suriyeliler üzerine yapılan tezlerin artışının diğer bir nedeni ise konu hakkında 2014 yılında Yükseköğretim Kurulu'nun (YÖK) üniversitelere "GİZLİ" ibaresiyle yolladığı bir genelgeyle Türkiye'ye iltica eden insan hakkında yapılacak araştırmaların Göç İdaresi Genel Müdürlüğü'nün (GİGM) onayına bağlı olarak yapılabileceği ifade edilmişti.
+73.cümle: Devletin araştırmaları takip etmek için yaptığı bu hamle GİGM'nin hazır olmaması nedeniyle işlemedi.
+74.cümle: İlerleyen süreçte akademiden ve sivil toplumdan genel tepkiler sonrası bu genelge sessizce iptal edildi.
+75.cümle: Araştırmaların izin ya da onay gerektirmeden yapılabilmesi çalışmaların sayısını arttırmıştır.
+76.cümle: Tıpta uzmanlık tezlerinde ise geçmiş yıllardan farklı olarak savaş yaralanmaları üzerinde değil de Suriyelilerin sağlık sistemine erişimi, yeni doğan çocukların sağlığı, ruhsal iyilik halleri ve hastalık durumlarıyla ilgili tezler yayınlanmıştır.
+77.cümle: Suriyelilerin Türkiye'de kalma süreleri arttıkça tıpta uzmanlık tezlerinde de farklı temalar işlenmiştir.2017 yılı ise Suriyeliler ile ilgili en fazla tezin yazıldığı yıldır.
+78.cümle: Hazırlanan Suriyeli temalı tezlerin % 42,7'si, 2017 döneminde yazılmıştır.
+79.cümle: İdoktora tezleri de diğer yıllara oranla artmıştır.
+80.cümle: Suriyeliler hakkında bilgi üretiminin ilk göçten 6 yıl sonra zirveye çıktığı görülmektedir.
+81.cümle: Akademide doktora düzeyindeki bu geç kalmışlığın nedenlerinden biri, Suriye'deki iç çatışmanın ne zaman sonlanacağı konusundaki belirsizlik açıklayabilir.
+82.cümle: Savaşın ve ilticaların henüz başladığı zamanlarda Türkiye'deki hükümet yetkilileri önce elli bin sonra 100 bin mülteci sayılarını kırmızı çizgi olarak belirlediklerini ifade ettiyseler de Suriye'deki çatışmaların şiddetinin artması nedeniyle Türkiye- Suriye akın eden insanların Türkiye'ye sığınma talepleri devam etmiştir (https://www.cnnturk.com/2013/dunya/10/26/davutoglu-siginmacilar-konusunda-kirmizi-cizgi-asildi/728654.0/index.html).2017 yılı içerisinde doktora tezlerinde eğitim, girişimcilik ve algı konusu tartışılan konuların başında gelmektedir.
+83.cümle: Tıpta uzmanlık tezlerinde Türkiye'de doğan çocuklar ve depresyon konuları çalışılmıştır.
+84.cümle: Tıpta uzmanlık tezleri artık göç eden bireylerin savaştan kaynaklı oluşan depresyon gibi hastalıklarını ve Türkiye'de doğan Suriyeli çocuklarının sağlığını gündeme almıştır.
+85.cümle: Yüksek lisans tezlerinde ise konu çeşitliliği anabilim dalları arttığı için daha fazladır.
+86.cümle: Yerel halkla ilişki ve uyum konusu bu dönemde güncelliğini korumuştur.
+87.cümle: Suriyelilerin karşılaştıkları sorunlar ve çocuk teması da bu dönemde çalışılan konuların başında gelmektedir.
+88.cümle: Çocuk teması tıpta uzmanlık, yüksek lisans ve doktora tezlerinde üzerinde yoğun bir şekilde durulan bir alan olmuştur.
+89.cümle: Türkiye'deki akademik camianın artık sadece Suriye'den göç eden bireyler değil onların çocuklarıyla da ilgilendiğini göstermektedir.
+90.cümle: Ayrıca Suriyeli çocukların göç sürecinde eğitimleri, duygusal sağlıkları vb. etkenlerden dolayı en ağır bedeli ödeyen kesim olduğu ve Türkiye'de yaşayan Suriyelilerin yaklaşık 1.7 milyonu çocuk yaşlarda olduğu gündeme alındığında çocuk temasının ilgi çekmesi bir anlam kazanmaktadır.
+91.cümle: Yazılan tezlerin türlerine ve yıllarına göre incelendiğinde çalışma alanları ve temalarda değişiklikler olduğu tespit edilmiştir.
+92.cümle: Tıpta uzmanlık tezleri özelinde bakıldığında yazılan ilk tezlerde savaş ve savaşın yol açtığı yaralanmalar ve hastalıklar merkezli çalışmalar yer alırken daha sonraki 236Oktay TATLICIOĞLU, Hıdır APAKyıllarda -Suriyelilerin yerleşimi uzadıkça- Suriyelilerin sağlık sistemlerine erişimi, iyilik halleri ve Türkiye'de doğan çocukları akademik camianın ilgisini çekmeye başlamıştır.
+93.cümle: İlk dönemlerde savaş ve etkileri üzerinden yazılan tezler daha sonraları göç ve sağlık ilişkisi bağlamında yazılmıştır.
+94.cümle: Buna benzer bir durum yüksek lisans ve doktora tezlerinde de fark edilmiştir.
+95.cümle: Yüksek lisans tezlerinin yazıldığı ilk dönemlerde iltica politikası, kente uyum gibi konular tartışılırken son yıllarda göçün etkileri, göç yönetimi, yerel halkla ilişkiler ve AB politikaları gibi temalar işlenmiştir.
+96.cümle: Yıllar geçtikçe Suriyeliler ile ilgili lisansüstü tezlerin daha fazla ivme kazanarak sayısının arttığını söylemek mümkündür.
+97.cümle: Sayının artmasıyla beraber temalarda bir değişiklik olduğu ve akademinin de Suriyeli göçünün geçiciliği bağlamından dışarı çıkarak göçün sonuçları ve etkileri üzerinde yoğunlaştıkları ifade edilebilir.
+98.cümle: Yıllara göre tezlerin dağılımı verildikten hemen sonra aşağıda lisansüstü tezlerin yazıldıkları dillere göre dağılımı verilmiştir.
+99.cümle: Grafik 2'deki gibidirGrafik 2: Tezlerin Yazım Diline Göre Dağılımı1 %26 %TürkçeİngilizceFransızca73 %Suriyeliler üzerine yazılan tezlerin büyük çoğunluğu Türkçe (%73) dilinde yazılmıştır.
+100.cümle: Tezlerin sadece biri Fransızca, yirmi beşi ise İngilizce olarak yazılmıştır.
+101.cümle: Türkçe dışında dillerle de yazılan tezlerin olması uluslararası 237İakademik camiayla daha rahat paylaşılabileceği açısından önemlidir.
+102.cümle: Lisansüstü tezlerin yapıldıkları üniversitelere göre dağılımı ise Tablo 1'de gösterilmiştir.
+103.cümle: Tablo 1: Tezlerin Üniversitelere Göre DağılımıÜniversite F % Üniversite F %Marmara 7 7,4 Yıldırım Beyazıt 2 2,1Gaziantep 6 6,3 Beykent 2 2,1Mustafa Kemal 6 6,3 Hacettepe 2 2,1ODTÜ 6 6,3 Harran 2 2,1Gazi 4 4,2 Hasan Kalyoncu 2 2,1Boğaziçi 4 4,2 İstanbul 2 2,1İstanbul Bilgi 4 4,2 Mardin Artuklu 2 2,1Yeni Yüzyıl 3 3,1 Muğla Sıtkı Koçman 2 2,1Koç 3 3,1 Sağlık Bilimleri 2 2,1Necmettin Erbakan 2 2,1 Sabancı 2 2,1Selçuk 2 2,1 Diğer Üniversiteler 29 30,2Toplam 96 100,0Yükseköğretim Bilgi Yönetim Sistemi'nden (2018) alınan bilgilere göre Türkiye'de 2018 Mart yılı itibarıyla 185 üniversite vardır.
+104.cümle: Suriyeliler ile ilgili lisansüstü tez yazıldığı tespit edilmiştir.
+105.cümle: Başka bir deyişle her 4 üniversiteden birinde Suriyelilerle ilgili bir tez yazılmıştır.
+106.cümle: Türkiye'de bulunan hem vakıf hem de devlet üniversiteleri olmak üzere Suriyeli konusunu gündeme aldıklarını göstermektedir.
+107.cümle: Tezlerin yarısına yakını (%45) İstanbul ilindeki üniversitelerde yapılmıştır.
+108.cümle: Suriyelilerin daha önce görülmedik büyüklükteki sayılarının da etkisiyle ilk kez göç çalışmaları bağlamında İstanbul dışında da önemli araştırmalar yürütüldüğü ifade edilebilir.
+109.cümle: Suriyelilerle ilgili çalışmalarda çok daha çeşitlenmiş bir profil ortaya koymaktadır (Danış, 238Oktay TATLICIOĞLU, Hıdır APAK2018). Yazılan tezlerin beşte birine yakını (%19,8) ise Suriye ile sınır illerindeki (Gaziantep, Şanlıurfa, Hatay, Mardin ve Kilis) üniversitelerde yapılmıştır.
+110.cümle: Suriyelilerle ilgili en fazla tez (7 tane) Marmara Üniversitesi'nde yapılmıştır.
+111.cümle: Marmara Üniversitesini sırasıyla Gaziantep, Mustafa Kemal ve Ortadoğu Teknik Üniversiteleri 6'şar tez ile izlemiştir. 12 üniversite 2'şer tezle, 29 üniversite 1'er tezle alana katkı sağlamıştır.  Tezlerin sayısal olarak daha fazla yazıldığı üniversitelere bakıldığında iki değişken söz konusudur.
+112.cümle: Bunlardan biri Suriyeli nüfusun yoğun olduğu illerde Suriyeli gerçeğiyle daha çok karşılaşan illerdeki üniversitelerde çalışma yapma gereği doğmuştur (İstanbul-Marmara Üniversitesi, Gaziantep- Gaziantep Üniversitesi, Hatay -Mustafa Kemal Üniversitesi). Aynı zamanda Suriyelilerin nüfusunun çok olduğu illerde araştırma için Suriyelilere ulaşmak da daha kolay olmuştur.
+113.cümle: Diğer değişken ise görece daha köklü üniversitelerde (Ankara-Orta Doğu Teknik Üniversitesi) çalışmalar daha çok tercih edilmiştir.
+114.cümle: Tezlerin yazıldığı anabilim dalına göre dağılımı ise Tablo 2'de gösterilmiştir.
+115.cümle: Tablo 2: Tezlerin Anabilim Dallarına Göre DağılımıAnabilim Dalı F % Anabilim Dalı F %Uluslararası İlişkiler 16 16,7 Siyaset Bilimi 3 3,1Sosyoloji 11 11,5 Coğrafya 2 2,1Siyaset Bilimi ve Siyaset Bilimi ve Kamu 6 6,3 2 2,1Uluslararası İlişkiler Yönetimiİşletme 4 4,2 Felsefe ve Din Bilimleri 2 2,1Halk Sağlığı 4 4,2 Eğitim Bilimleri 2 2,1Radyo Televizyon ve Çalışma Ekonomisi ve Endüstri 3 3,1 2 2,1Sinema İlişkileriKlinik Psikoloji 3 3,1 Kamu Yönetimi 2 2,1Psikoloji 3 3,1 Diğer anabilim dalları 31 32,1Toplam 96 100,0Tablo 2'ye göz atıldığında birçok anabilim dalının "Suriyeliler" konusuna ilgi gösterdiği ifade edilebilir.
+116.cümle: Toplumları kültürel, ekonomik, dini, siyasi vb. bakımdan etkileyen bir olgu olan göçün; demografik, sosyolojik, ekonomik, psikolojik, antropolojik, siyasal vb. pek çok boyutu bulunmaktadır.
+117.cümle: İdurum çok farklı disiplinlerden araştırmacıları bir araya getirmesine neden olmaktadır.
+118.cümle: Elektronik veri tabanlarında yapılacak basit bir araştırmayla göç literatürüne katkı yapan akademisyenlerin alan çeşitliliğinin 1960'lardan bu yana ivme kazanarak ve son yıllarda katlanarak arttığı görülmektedir (Sirkeci ve Yüceşahin, 2014). Suriyeliler üzerine yazılan lisansüstü tezlerde de alan çeşitliliğinin olduğu ve farklı boyutlarıyla Suriyelilerin ele alındığı ifade edilebilir.
+119.cümle: Suriyeliler ile ilgili toplam 44 farklı anabilim dalında yazılan lisansüstü tezlere rastlanmaktadır.
+120.cümle: Çok farklı disiplinlerden gelen ve hitap ettiği kesimlerin de farklı olduğu araştırmacılar tarafından hazırlanan tezlerin ortaklaştığı nokta Suriyeliler üzerine yazılmış olmalarıdır.
+121.cümle: Göçün sosyolojik boyutu olduğu gibi siyasal, kültürel ve sosyal politika boyutu olan çok boyutlu bir olgudur.
+122.cümle: Böylelikle farklı disiplinlerdeki araştırmacıların böyle bir olgu karşısında kayıtsız kalmaları zaten söz konusu edilemezdi.
+123.cümle: Tezlerin en fazla yazıldığı anabilim dalları uluslararası ilişkiler (16) ve sosyoloji anabilim (11) dallarıdır.
+124.cümle: Göç olgusu ve beraberinde getirdikleri düşünüldüğünde uluslararası ilişkiler ve sosyoloji disiplinlerinin göç alanına doğal olarak dâhil olduğu ifade edilebilir.
+125.cümle: Suriyeliler gibi büyük toplumsal hareketlere sosyoloji disiplininin ilgisiz kalması düşünülemez.
+126.cümle: Ancak Sosyoloji ile kısmen benzer konuları çalışan Sosyal Hizmet anabilim dalında tez yapılmamış olması araştırmacılar tarafından önemli bir eksiklik olarak görülmektedir.
+127.cümle: Göç alanında sivil toplum ve kamu kuruluşlarında sosyal çalışmacılar aktif olarak çalışmalar yürütürken Suriyeliler üzerine sosyal hizmet anabilim dallarında lisansüstü tez çalışmalarına rastlamamak şaşırtıcı olmuştur.
+128.cümle: Ayrıca Zengin ve Çalış'ın (2017) Sosyal Hizmet anabilim dalında son 10 yılda yazılan tezlerle ilgili çalışmada "göç" alanının yeterli ilgiyi henüz görmediği tespit edilmiştir.
+129.cümle: Körükmez ve Südaş (2015) çalışmalarında YÖK veri tabanını kullanarak 1986-2013 yılları arasında göç konulu 823 adet teze ulaşmış ve bu çalışmada göç konulu tezlerin disiplinlere göre dağılımında sosyoloji başat disiplin olarak tespit edilmiştir.
+130.cümle: Sosyolojiyi, uluslararası ilişkiler disiplini izlemiştir.  Suriyelilerle ilgili yapılan lisansüstü tezlerin incelenmesi çalışmasında ise uluslararası ilişkiler disiplininde sosyoloji disiplininden daha fazla tez yazıldığı görülmüştür.
+131.cümle: Uluslararası ilişkiler disiplininde yazılan tezlerin fazla 240Oktay TATLICIOĞLU, Hıdır APAKolmasının nedenlerinden bazıları Suriyeli göçünün Türkiye ve diğer ülkelere etkisinin yoğun olması, ülkelerde karşılaşılan sorunlar, dış politikalara etkileri akademinin daha çok ilgisini çekmiş olması şeklinde ifade edilebilir.
+132.cümle: Bir diğer neden ise uluslararası ilişkiler disiplininde yapılan çalışmaların aslında yakın disiplinlerde de yapılabilecek konuları ihtiva etmesidir.
+133.cümle: Buna rağmen yine de uluslararası ilişkiler disiplini konusundan bağımsız olarak ülkeler arası bir hareketlilik olması nedeniyle göç konusuna karşı daha kapsayıcı ve göç çalışmalarının destekleyici bir tavır takınmıştır denebilir.
+134.cümle: Örneğin entegrasyonu konu alan bir tez uluslararası ilişkiler, sosyoloji ya da halkla ilişkiler gibi birden çok anabilim dalının çalışma çerçevesi içinde yer alabilmektedir.
+135.cümle: Bir sonraki grafik lisansüstü tezlerinin araştırma yöntemlerini göstermektedir.
+136.cümle: Yapılan araştırmalarda nicel, nitel ve karma yöntemlerden hangisinin kullanıldığına bakılmasındaki temel motivasyon sosyal bilimlerdeki yöntem eğilimini görmektir.
+137.cümle: Grafik 3: Lisansüstü Çalışmaların Araştırma Yöntemleri17 %5 %NicelNitel40 %KarmaKurumsal39 %İncelenen tezlerden 16'sı literatür araştırması şeklinde derleme çalışmalardır.
+138.cümle: Grafik 3'e bakıldığında Suriyeliler ile ilgili çalışmalarının %39,6'sında (38 tane) nicel araştırma yöntemi, %38,5'inde (37 tane) nitel 241İyöntem tercih edilmekte, karma yöntem (%5,2) (5 tane) ise daha az tercih edilmiştir.
+139.cümle: Yapılan nitel çalışmalarda derinlemesine görüşme ve doküman analizi gibi türlerine rastlanmaktadır.
+140.cümle: Doküman analizi yapılan tezlerde genelde Suriyelilerin medyadaki görünümü tema olarak tercih edilmiştir. ,İstatiksel analizlerin kullanıldığı nicel çalışmalar zaten yaygın bir yöntem olmasına karşın sosyal bilimlerde son dönemlerde yorumsamacı yaklaşımın da daha çok araştırmacılar tarafından benimsenmesiyle beraber nitel yöntemin de kullanımının arttığı görülmektedir.
+141.cümle: İncelenen tezlerde kullanılan yöntemlere bakıldığında nicel ile nitel yönteme dayalı çalışma sayılarının birbirine yakınlığı bu açıdan dikkate değer bir sonuçtur.
+142.cümle: Nicel yöntemin yanında nitel yöntem ile Suriyelilerin göç sonrası deneyimlerine ilişkin de bir bilgi temin edilmiştir.
+143.cümle: Tablo 3: Tezlerin Yapıldığı Araştırma BölgeleriAraştırma Sahası F Araştırma Sahası F Araştırma Sahası Fİstanbul 17 Mardin 3 Aydın 1Türkiye 14 Mersin 3 Malatya 1Hatay 12 İzmir 3 Adana 1Gaziantep 9 Konya 2 Samsun 1Şanlıurfa 7 Ankara 2 Van 1Kilis 7 Muğla 1Yurtdışı 5                                                        Maraş 1Lisansüstü tezlerin 69'u (%71,9) araştırma sahasına çıkılarak yapılmıştır.
+144.cümle: Başka bir deyişle tezlerin çoğunluğu alan araştırmasına/alandan alınan bilgilere dayanmaktadır. 242Oktay TATLICIOĞLU, Hıdır APAKİSTANBUL551.784BURSA142.110KONYA104.029GAZİANTEPİZMİRADANA373.808135.195190.472HATAY448.385Max.Min.Şekil 1: Geçici Koruma kapsamında Bulunan Suriyelilerin İlk 10 İle Göre DağılımıHaritada da görüldüğü gibi İstanbul ili Türkiye'de en fazla Suriyeliyi barındıran ildir.
+145.cümle: Lisansüstü tezlerde seçilen araştırma sahalarına bakıldığında İstanbul (f=17) en fazla tercih edilen ildir.
+146.cümle: İstanbul'da bulunan üniversite sayısının fazla olmasının da payı vardır.
+147.cümle: Türkiye'ye sığınan Suriyelilerin neredeyse yarıya yakını ise Suriye ile sınır kentler olan Gaziantep, Kilis, Şanlıurfa, Hatay ve Mardin illerinde barınmaktadır.
+148.cümle: Bunun dışında koruma altındaki Suriyeliler en çok bulundukları iller: Adana, Mersin, Bursa, Konya ve İzmir'dir (Göç İdaresi, 2018). Yapılan lisansüstü tezlerde de Suriyelilerin en çok barındığı 10 ilde bariz şekilde araştırma sahası olarak seçildiği görülmektedir.
+149.cümle: Bazı araştırmalarda çalışma sahası net olarak ortaya konulmamış, bunun yerine araştırma sahası olarak 'Türkiye' (f=14) ifadesi kullanılmıştır.
+150.cümle: Lisansüstü tezlerde araştırmacılar yurtdışından (f=5) da veri toplamıştır.
+151.cümle: Almanya, Birleşik Krallık, İtalya, İsveç ve Ürdün.
+152.cümle: Suriyeli sayısının Suriye'nin komşu ülkelerinden sonra en çok Suriyelinin yaşadığı ülkelerdir.
+153.cümle: Grafik 4 ise araştırma sahasını kamp içi ve kamp dışı olarak ikiye ayırmaktadır. 243Grafik 4: Veri Toplanılan Alan4 %Geçici Barınma MerkeziKent Mültecisi96 %Grafik 4'ün analizine geçmeden önce kamplardan sorumlu Afet ve Acil Durum Yönetim Başkanlığı'nın (AFAD) mülteci kampları yerine geçici barınma merkezi kavramını kullandığı ifade edilmelidir.
+154.cümle: Mülteci kampı ya da barınma merkezi arasında işlevsellik açısından herhangi bir fark olmadığını söylenebilir.
+155.cümle: Lisansüstü tezlerin veri toplama alanları incelenirken kamp içi ve kamp dışı (kent içi) ayrımına da dikkat edilmiştir.
+156.cümle: Tezlerin çok azının (%4) geçici barınma merkezlerinde (Akçakale, Harran, Kahramanmaraş) yapıldığı,  büyük çoğunluğunun (%96) kent hayatı içerisinde yaşayan Suriyeliler üzerine yapıldığı tespit edilmiştir.
+157.cümle: Kamplarda yapılan çalışmaların az olmasının en önemli nedenlerinden biri kamplarda araştırma izin almanın zor olması düşünülmektedir.  Bir diğer neden ise kentlerde yaşayan Suriyelilerin sayıca çok fazla olmasıdır.
+158.cümle: Türkiye'ye göç eden Suriyeliler geçici barınma merkezleri (kamp) veya kentlere yerleşmişlerdir.
+159.cümle: Türkiye'de 10 ilde bulunan 21 geçici barınma merkezinde yaşayan Suriyelilerin sayısı Mart 2018 itibarıyla 227.802'dir (Göç İdaresi, 2018). Bu sayı Türkiye'deki toplam Suriyeli sayısının sadece yaklaşık olarak %7'i anlamına gelmektedir.
+160.cümle: Geri kalan %93'si "kent mültecileri" olarak yaşamlarını (Erdoğan, 2017: 16) sürdürmektedir.244Oktay TATLICIOĞLU, Hıdır APAKGrafik 5: Suriyeliler Hakkında Alan Araştırmasına Dayalı Yapılan Tezlerdeki Örneklem Durumu4750454035302225201115103 3 150Evren-Örneklem GrubuSuriyeli Medya DokümanYerel Halk STK Diğer MülteciAlan araştırmasına dayalı tezlere bakıldığında evren ve örneklem grubunun yarısına yakınını (f=47)  Suriyeliler oluşturmaktadır.
+161.cümle: Bunun dışında yerel halkın Suriyeliler hakkında görüşlerine dayanan araştırmaların da sayısı (22 tane) az değildir.
+162.cümle: Medya (gazete, TV vb.) da araştırmacıların veri topladığı alanlardan biridir. 11 araştırma Suriyelilerle ilgili medyaya yansıyan haberler üzerinden inceleme yapılmıştır.
+163.cümle: Suriyelilere hizmet veren sivil toplum kuruluşları (f=3) ve Suriyelilerle ilgili doküman taramaları üzerinden veriler toplamıştır.
+164.cümle: Bir sonraki tablo lisansüstü tezlerinin yazıldıkları yıllara göre Suriyelilerin nasıl tanımlandığını göstermektedir.
+165.cümle: Tablo 4: Tezlerin Yazıldıkları Yıllara Göre "Suriyeli" TanımlamasıTez yılıToplam2013 2014 2015 2016 2017Suriyeli KavramıGeçici Koruma - - 1 2 1 4Mülte ci 1 3 5 10 14 33Sığınmacı - - 7 10 6 23Göçmen - 1 2 4 4 11Suriyeli 1 2 2 4 16 25Toplam 2 6 17 30 41 96Suriyeliler ile ilgili yapılan lisansüstü tezlerde Suriyelilere ilişkin söylemin nasıl yapıldığı ve göç eden öznelerin tezlerde nasıl kavramlaştırıldığı 245İincelenmiştir.
+166.cümle: İnceleme sonucunda "Suriyeli" tanımlanmasına dair akademideki kavram karmaşası hakkında bir fikir sağlanmaya çalışılmıştır.
+167.cümle: Lisansüstü tezlerde Suriyeli tanımlamasında en fazla 'mülteci' kavramı tercih edilmiştir.
+168.cümle: Suriyeli' ve 'sığınmacı' kavramları takip etmektedir.
+169.cümle: Suriyeli kavramının tek başına hiçbir göç terminolojisi kullanılmadan kullanımı da söz konusu olmuştur.  Sığınma olgusu açısından kullanılan terminolojiye bakıldığında araştırmaların yarısından fazla (f=56) çalışmada mülteci ve sığınmacı kavramlarının kullanıldığı görülmektedir.
+170.cümle: Herhangi bir statü tanımlaması yapılmadan sadece Suriyeli kavramının kullanılmasının nedenlerinden biri olarak hukuksal statüdeki kafa karışılıklığının bir sonucu şeklinde ifade edilebilir.
+171.cümle: Mülteci ve sığınmacı kavramları modern dönem tanımlamaları olup hukuksal statülerdir.
+172.cümle: Mülteci ve sığınmacı tanımlaması,  yaşamlarını ve güvenliklerini tehlikeye atan nedenler ile ülkelerini terk etmiş ve uluslararası koruma talebinde bulunmuş göçmenler için kullanılmaktadır (Bartram vd., 2017: s. 229). Sığınmacı kavramı mülteci kavramından farklı olarak; ülkesini mülteci olduğu iddiasıyla terk ederek,  bir başka ülkeye sığınan fakat henüz mülteci olup olmadığı hakkında yetkili merciler tarafından karar verilmemiş kimseler (Deniz, 2014) için kullanılmaktadır.
+173.cümle: Mülteci talebinin tanınması mültecilerin hukuki statüsüne ilişkin 1951 Cenevre Sözleşmesi ile yönetilir.
+174.cümle: Ancak Türkiye'de var olan yasal düzenlemelerle sığınmacı kavramı yerine şartlı mülteci kavramı kullanılmaktadır.
+175.cümle: Ayrıca Türkiye Mültecilerin Hukuki Durumuna Dair 1951 Cenevre Protokolü'ne taraf olmuş, ancak sözleşmeye 1961 tarihindeki düzenleme ile coğrafi çekince koymuştur.
+176.cümle: Buna göre Türkiye sadece Avrupa ülkelerinden gelen göçmenleri mülteci olarak kabul etmektedir.
+177.cümle: Türkiye, Avrupa dışından gelen göçmenleri ise şartlı mülteci statüsünde ülkesine kabul etmektedir.
+178.cümle: Buna göre Avrupa dışından Türkiye'ye sığınan mülteciler başka bir ülkeden mülteci statüsü kazanana kadar geçici ikamet izni tanımaktadır.
+179.cümle: Suriyeli tanımlamasının mültecilik ve sığınmacılık üzerinden yapılmasının hukuki bir tanımlama 246Oktay TATLICIOĞLU, Hıdır APAKşeklinde değildir.
+180.cümle: Sığınmacı teriminin kullanıldığı bazı tezlerde hukuksal içerikten çok Türkiye'ye sığınan kitle anlamında kullanılmıştır.
+181.cümle: Suriyelilerin Türkiye'de hukuksal statüleri mülteci ya da sığınmacı değildir.
+182.cümle: Savaşın başladığı ilk dönemlerde 'misafirlik' statüsüyle Türkiye'ye kabul edilen Suriyeliler Yabancılar ve Uluslararası Koruma Kanunu ve 2014'de yayınlanan "Geçici Koruma Yönetmeliği" ile geçici koruma statüsünü elde etmişlerdir.
+183.cümle: Özer'e (2015) göre bu yönetmelikle beraber 2011 yılından itibaren göç eden Suriyelilerin ilk defa hakları ve statüleri bağlamında netlik kazanmıştır.
+184.cümle: Tezlerin yıllara göre özne tanımlamasında mülteci ve Suriyeli tanımlaması ilk dönemlerden itibaren kullanılan bir tanımlamadır.  Sığınmacı ve geçici koruma terimleri 2015 yılından itibaren kullanılmaya başlanmıştır. 2015 yılından itibaren geçici koruma tanımlamasının yapıldığı ancak bu sayının diğer tanımlamalara göre daha az olduğu göze çarpmaktadır.
+185.cümle: Öte yandan 2014'te Suriyelilerin statülerinin mevzuatta geçici koruma olarak belirlenmiş olmasına rağmen bu tarihten sonra bile Suriyeli tanımlamasında bir standart tutturulamamıştır. 'Göçmen' kelimesi de lisansüstü tezlerde kullanılan (f=11) kavramlardan biridir.
+186.cümle: Göçmen kavramı genel olarak bir ülkesini isteği doğrultusunda terk ederek diğer ülkeye yasal yollardan giriş yapıp o ülkede yaşayan kişi için kullanırken buradaki kullanım biraz farklıdır.
+187.cümle: Çünkü Suriyeli bireylerin büyük çoğunluğu zorunlu sebeplerden dolayı göç etmişlerdir.
+188.cümle: Göçmen kelimesinin kullanılmasının sebeplerinden biri, göç eden bireyi tanımlayan bir çatı kavram olması olabilir.
+189.cümle: Bir diğer neden, Suriyeli bireylerin statülerine dair net bir tanımın konulmaması araştırmacıları daha genel bir kavram olan göçmen kavramına yönlendirmiştir.
+190.cümle: İnceleme sonucunda hem doktora hem yüksek lisans hem de tıpta uzmanlık türünde sığınmacı, mülteci ve Suriyeli tanımlamalarına rastlanılmaktadır.
+191.cümle: Göçmen ve geçici koruma tanımlaması ise sadece yüksek lisans tezlerinde kullanılmıştır. 247Haber içerikleri bu üç statünün farklarına, habere konu olan insanların göç etme nedenlerine ve bu nedenler doğrultusunda sahip oldukları haklara dayanarak yapılmamaktadır.
+192.cümle: Mülteciler ülkelerinden kovulmuş değil kaçarak yardım arayan insanlardır.
+193.cümle: Haber söylemlerinde bu tür ayrımlara dikkat etmemek ve sığınmacıların ve mültecilerin sahip oldukları hakları göz ardı etmek, toplumsal algıda da aynı eksikliklerin yer etmesine neden olmaktadır.
+194.cümle: SonuçlarTürkiye'de 2011 sonrasında yaşanan Suriyeli göçünü anlamak ve akademik bir disiplin olarak bugünkü sorunsallarını açıklamamız noktasında o alanda yapılan çalışmaları incelemek ve analizini yapmak bize önemli ipuçları sağlayacaktır.
+195.cümle: Suriyeli göçü ile ilgili mevcut lisansüstü tezlere ve akademideki Suriyeli algısına ilişkin bir değerlendirme yapma düşüncesiyle hazırlanmıştır.
+196.cümle: Suriyeli" kavramını tez başlığında kullanan lisansüstü tezlerin;  yıllara, yazım diline, lisansüstü seviyeye, üniversitelere, anabilim dallarına, araştırma bölgelerine, veri toplama alanlarına, Suriyelilerinin nasıl tanımlandıklarına örneklem durumuna ve yöntemlerine göre dağılımı incelenmiştir.
+197.cümle: Türkiye'deki Suriyeliler hakkında yayımlanmış çalışmalarının her yıl arttığı görülmektedir.
+198.cümle: Akademik çalışmalarda yaşanan sayısal artışın en önemli nedeni Suriye'deki çatışmaların devam etmesine bağlı olarak Suriyelilerin Türkiye'deki kalış sürelerinin uzaması olarak değerlendirilebilir.
+199.cümle: Göç araştırmaları göstermektedir ki mültecilerin yerleştiği yerde geçirdikleri süre uzadıkça kendi ülkelerine dönmeyi tercih edenlerin sayısı azalmaktadır.
+200.cümle: Dolasıyla her geçen gün Suriyelilerin biraz daha Türkiye'ye yerleşme eğiliminin artacağı varsayılabilir.
+201.cümle: Ayrıca araştırmalardaki sayısal artışın daha da artacağı da öngörülebilir.248Oktay TATLICIOĞLU, Hıdır APAKAraştırmalar tematik olarak ele alındığında henüz yeterli sayıda araştırma yapılmadığı düşünülmektedir.
+202.cümle: Konu hakkında en çok tezin uluslararası ilişkiler anabilim dalında yapıldığı görülmüştür.
+203.cümle: Suriye'deki çatışmaların sonucu olarak yaşanan ölümler, yaralanmalar, sığınma olgusu gibi dramatik deneyimler üzerine yapılan çalışmaların uluslararası ilişkiler temalı çalışmalardan az olması diğer beşeri bilimlerdeki ilgi eksikliği olarak değerlendirilebilir.
+204.cümle: Uluslararası ilişkilerde yapılan çalışmaların da sadece ülkeler arasındaki ilişkiler odağında olmadığını hatırlamak gerek.
+205.cümle: Göç olgusu her şeyden önce sosyal yaşamda kendini göstermektedir.
+206.cümle: Dolayısıyla Suriyelilerin yaşam pratikleri, gündelik hayatları, savaş sonrası travmalar, toplumsal bütünleşmeleri ve Suriyeli ve Türkiyelilerin aralarındaki ilişkiler, Suriyeli kadın, erkek ve çocukların ayrı ayrı yaşadıkları dışlanma deneyimleri, Türkiye'deki Suriyelilerin yoksulluk görünümü, emek sömürüsü gibi olan konularında hala çok az lisansüstü tezin yazıldığı görülmektedir.
+207.cümle: Yeni araştırmalar için bu konular çalışma önerisi olarak sunulabilir.
+208.cümle: Suriyeli ve Türkiyelilerden toplanan verilere dayanmaktadır.
+209.cümle: Örneklem olarak daha çok dil engeline rağmen Suriyeliler tercih edilmiş olması önemli olarak değerlendirilebilir.
+210.cümle: Tezlerde nitel ve nicel yöntem kullanma oranının birbirine çok yakın olduğu görülmüştür.
+211.cümle: Araştırmacılar saha olarak genellikle İstanbul ve Suriye'ye sınır olan şehirleri seçmiştir.
+212.cümle: Bunun en önemli nedeni ise bu illerdeki Suriyeli nüfusun yoğunluğu olarak değerlendirilmiştir.
+213.cümle: Barınma merkezlerinde veri toplayan araştırma sayısı çok az kalmıştır.
+214.cümle: Tezlerin yapıldığı üniversitelere bakıldığında İstanbul'daki üniversitelerde bölge illerdeki üniversitelerden daha çok tez yazılmıştır.
+215.cümle: İstanbul dışındaki Suriyeli nüfusun il nüfusuna oranının yüksek olduğu sınır illerdeki üniversitelerin Suriyeliler konusunda daha çok tez yazılmış olması beklenmişse de sonuçlara bakıldığında il bazı çalışma yapan üniversitelerin dağılımında İstanbul'daki üniversiteler dışında bir yoğunlaşmaya rastlanmamıştır.
+216.cümle: Ayrıca yedi yılı aşmış olan Suriyelilerin sığınma olgusuna rağmen hala doktora 249İdüzeyinde yapılan tezlerin sayısının çok düşük olması ayrı bir araştırmanın konusu olmayı hak etmektedir.
+217.cümle: Sahadan veri toplanarak yapılan tezlerde betimsel tarama modeline dayalı olarak yapıldığı görülmektedir.
+218.cümle: Araştırmalara bakıldığında gözden kaçırılmaması gereken önemli bir konu da Suriyelilerin neredeyse yedi yılı aşkın süredir Türkiye'de hayatlarını idame etmelerine rağmen hala akademide Suriyeliler hakkında ortak kavramların kullanılamadığı görülmüştür.
+219.cümle: Resmi statü olan geçici koruma kavramının çok az kullanmış olması, tezlerin yarısından fazlasında mülteci ve sadece "Suriyeli" kavramının tercih edilmesi de bu konudaki kafa karışıklığına delil olarak gösterilebilir. 250Oktay TATLICIOĞLU, Hıdır APAKKaynakçaAksoy, Z. (2012). Uluslararası Göç ve Kültürlerarası İletişim.
+220.cümle: Uluslararası Sosyal Araştırmalar Dergisi, 5(20), 292-303.Apak, H. (2014). Suriyeli Göçmenlerin Kente Uyumları: Mardin Örneği.
+221.cümle: Mukaddime, 5(2), 53-70.Apak, H. (2014). Suriyeli göçmenlerin uyumu ve gelecek beklentileri: Mardin örneği, (Yayımlanmamış Yüksek Lisans Tezi). Mardin Artuklu Üniversitesi, Mardin.
+222.cümle: Arslanhan, O. (2013). Suriye İç Savaşı Sırasında Suriyeli Sivillerde Oluşan Göz Yaralanmalarının Sıklığı ve Şiddeti (Yayımlanmamış Tıpta Uzmanlık Tezi). Mustafa Kemal Üniversitesi, Hatay.
+223.cümle: Bartram, D., Poros, M. V. and Monforte, P. (2017).  Göç Meselesinde Temel Kavramlar. (I. Ağabeyoğlu Tuncay, Çev.). Ankara: Hece Yayınları.
+224.cümle: Danış, D. (2018). Türkiye'de Göç Çalışmalarına Bakış, Erişim Tarihi: 22 Mayıs 2018, http://bmshaber.com/turkiyede-goc-calismalarina-bakis/.https://www.cnnturk.com/2013/dunya/10/26/davutoglu-siginmacilar-konusunda-kirmizi-cizgi-asildi/728654.0/index.htmlDeniz, T. (2014).  Uluslararası Göç Sorunu Perspektifinde Türkiye.
+225.cümle: Doğan, E. (2015). Televizyon Haberlerinde Nefret Söylemi: Suriyeli Sığınmacılar Örnek Olayı (Yayımlanmamış Doktora Tezi). İstanbul Üniversitesi, İstanbul.
+226.cümle: Düzkaya, H. (2016). Türkiye'deki suriyeli sığınmacıların entegrasyonu ve istihdam politikaları, (Yayımlanmamış Yüksek Lisans Tezi). Gazi Üniversitesi, Ankara.
+227.cümle: Ercoşkun, B. (2015). Suriyeli mültecilerin Türkiye'ye sosyokültürel ve sosyoekonomik etkileri, (Yayımlanmamış Yüksek Lisans Tezi). Yeni Yüzyıl Üniversitesi, İstanbul.
+228.cümle: Erdoğan, M. M. (2015). Türkiye'deki Suriyeliler Toplumsal Kabul ve Uyum.İstanbul: İstanbul Bilgi Üniversitesi Yayınları.
+229.cümle: Erdoğan, M. M. (2017). "Kopuş"tan "Uyum"a Kent Mültecileri: Suriyeli Mülteciler ve Belediyelerin Süreç Yönetimi:  İstanbul Örneği.
+230.cümle: İstanbul: Marmara Belediyeler Birliği Kültür.251Göç İdaresi. (10 Mayıs 2018). Geçici Koruma, Erişim Tarihi: 10 Mayıs 2018, http://www.goc.gov.tr/icerik6/gecici-koruma_363_378_4713_.Gürcüoğlu, O. (2015). An analysis of Hatay Arab Alevis' accounts of their relations with Syrian refugees in Hatay aer Sft yrian crisis in 2012, (Yayımlanmamış Yüksek Lisans Tezi). Orta Doğu Teknik Üniversitesi, Ankara.
+231.cümle: International Organization for Migration) (1995). Transit Migration in Turkey, Budapest: IOM Migration Information Programme.(2003). Irregular Migration in Turkey, Migration Research Series Cenevre, IOM Publication.(2004). "Demographic Mobility over Turkey: Migration Experiences and Government Responses", Mediterranean Quarterly, 15(4).İçduygu, A. (1996). Transit Migrants and Turkey.
+232.cümle: Bogazici Journal Review of Social, Economic and Administrative Studies, 10(1-2), 127-142.2003 Irregular Migration in Turkey, IOM Migration Research Series, Cenevre, IOM Publication. 2004 "Demographic Mobility over Turkey: Migration Experiences and Government Responses", Mediterranean Quarterly, 15(4): 88-99.Karataştan, N. (2017). Suriyeli mültecilerin sağlık hizmetlerine ulaşmada yaşadıkları zorluklar, (Yayımlanmamış Yüksek Lisans Tezi). Haliç Üniversitesi, İstanbul.
+233.cümle: Kaya, A. (1998). Multicultural Clientelism and Alevi Resurgence in e Th Turkish Diaspora: Berlin Alevis.
+234.cümle: New perspectives on Turkey, 18, 23-49.Kirişçi, K. (1995). Post Second World War Immigration from Balkan Countries to Turkey.
+235.cümle: New Perspectives on Turkey, 12, 61-77.Körükmez, L. ve Südaş, İ. (2015). Önsöz.  Körükmez, L. ve Südaş, İ. (Der.), Göçler Ülkesi (ss. 7-14). İstanbul: Ayrıntı Yayınları.
+236.cümle: Olgun, M. N. (2017). Suriyeli sığınmacı gebelerin klinik özellikleri ve doğum sonuçlarının değerlendirilmesi, (Yayımlanmamış Tıpta Uzmanlık Tezi). Sağlık Bilimler Üniversitesi, İstanbul.252Oktay TATLICIOĞLU, Hıdır APAKÖzer, Y. Y. (2015). Uluslararası Göç ve Yabancı Düşmanlığı.  İstanbul: Derin YayınlarıSağaltıcı, E. (2013). Suriyeli Mültecilerde Travma Sonrası Stres Bozukluğu Taraması (Yayımlanmamış Tıpta Uzmanlık Tezi). Gaziantep Üniversitesi, Gaziantep.
+237.cümle: Seçer, A. B. (2017). Seeking education beyond refuge: An analysis of Syrian parents' perspectives of their children's education in İstanbul, (Yayımlanmamış Yüksek Lisans Tezi). Boğaziçi Üniversitesi, İstanbul.
+238.cümle: Sirkeci, İ. (1996). Migration, Ethnicity and Conifl ct (Doctoral dissertation, University of Sheffield).Sirkeci, İ. ve Yüceşahi, M. M. (2014). Türkiye'de Göç Çalışmaları.
+239.cümle: Göç Dergisi, 1(1), 1-10.Tezel, A. (2016). Understanding State-Civil Society Relations In Education Provision For Non-Camp Syrian Children In Turkey (Yayımlanmamış Doktora Tezi). Orta Doğu Teknik Üniversitesi, Ankara.
+240.cümle: Tuna, M. ve Özbek, Ç. (2012). Yerlileşen Yabancılar.
+241.cümle: Ankara: Detay Yayıncılık.
+242.cümle: Uludağ, H. (2016). Suriyeli mültecilerin zorunlu göç deneyimleri: Ankara örneği, (Yayımlanmamış Yüksek Lisans Tezi). Gazi Üniversitesi, Ankara.
+243.cümle: Yıldırım, A. ve Şimşek, H. (2013). Sosyal Bilimlerde Nitel Araştırma Yöntemleri.
+244.cümle: Ankara: Seçkin Yayıncılık.
+245.cümle: Yükseköğretim Bilgi Yönetim Sistemi (2018). Retrieved from https://istatistik.yok.gov.tr/++Zengin, O. ve Çalış, N. (2017). Türkiye'de Sosyal Hizmet Araştırması: Son 10 Yılda Sosyal Hizmet Anabilim Dallarında Yazılan Tezler Üzerine Bir İnceleme.
+
+C2:M7 SAYFA NUMARASI KONTROLÜ
+
+Sayfa numaraları eşittir. Tezde bulunan sayfa sayısı: 28
+Sayfa numarası = 1 - Bulunan sayfa numarası: 2018 - Sonuç = Farklı
+Sayfa numarası = 2 - Bulunan sayfa numarası: 228 - Sonuç = Farklı
+Sayfa numarası = 3 - Bulunan sayfa numarası: 229 - Sonuç = Farklı
+Sayfa numarası = 4 - Bulunan sayfa numarası: 230 - Sonuç = Farklı
+Sayfa numarası = 5 - Bulunan sayfa numarası: 231 - Sonuç = Farklı
+Sayfa numarası = 6 - Bulunan sayfa numarası: 232 - Sonuç = Farklı
+Sayfa numarası = 7 - Bulunan sayfa numarası: 233 - Sonuç = Farklı
+Sayfa numarası = 8 - Bulunan sayfa numarası: 234 - Sonuç = Farklı
+Sayfa numarası = 9 - Bulunan sayfa numarası: 235 - Sonuç = Farklı
+Sayfa numarası = 10 - Bulunan sayfa numarası: 236 - Sonuç = Farklı
+Sayfa numarası = 11 - Bulunan sayfa numarası: 237 - Sonuç = Farklı
+Sayfa numarası = 12 - Bulunan sayfa numarası: 238 - Sonuç = Farklı
+Sayfa numarası = 13 - Bulunan sayfa numarası: 239 - Sonuç = Farklı
+Sayfa numarası = 14 - Bulunan sayfa numarası: 240 - Sonuç = Farklı
+Sayfa numarası = 15 - Bulunan sayfa numarası: 241 - Sonuç = Farklı
+Sayfa numarası = 16 - Bulunan sayfa numarası: 242 - Sonuç = Farklı
+Sayfa numarası = 17 - Bulunan sayfa numarası: 243 - Sonuç = Farklı
+Sayfa numarası = 18 - Bulunan sayfa numarası: 244 - Sonuç = Farklı
+Sayfa numarası = 19 - Bulunan sayfa numarası: 245 - Sonuç = Farklı
+Sayfa numarası = 20 - Bulunan sayfa numarası: 246 - Sonuç = Farklı
+Sayfa numarası = 21 - Bulunan sayfa numarası: 247 - Sonuç = Farklı
+Sayfa numarası = 22 - Bulunan sayfa numarası: 248 - Sonuç = Farklı
+Sayfa numarası = 23 - Bulunan sayfa numarası: 249 - Sonuç = Farklı
+Sayfa numarası = 24 - Bulunan sayfa numarası: 250 - Sonuç = Farklı
+Sayfa numarası = 25 - Bulunan sayfa numarası: 251 - Sonuç = Farklı
+Sayfa numarası = 26 - Bulunan sayfa numarası: 252 - Sonuç = Farklı
+Sayfa numarası = 27 - Bulunan sayfa numarası: 253 - Sonuç = Farklı
+Sayfa numarası = 28 - Bulunan sayfa numarası: 254 - Sonuç = Farklı
+
+Sayfa numarası kontrolü sonucu (1 üzerinden): 0
+
+C2:M8 YAZIM PLANI KONTROLÜ
+
+Tez dosyasında bulunan yazımı doğru olan 've' sayısı: 160
+Tez dosyasında bulunan yazımı yanlış olan 've' sayısı: 0
+Tez dosyasında bulunan yazımı doğru olan 'veya' sayısı: 3
+Tez dosyasında bulunan yazımı yanlış olan 'veya' sayısı: 0
+Tez dosyasında bulunan yazımı doğru olan 'ile' sayısı: 28
+Tez dosyasında bulunan yazımı yanlış olan 'ile' sayısı: 1
+
+C3:M9 ALINTI KONTROLÜ
+
+Yapılan Alıntılar:
+1.Alıntı: Suriye iç savaşı sırasında Suriyeli sivillerde oluşan göz yaralanmalarının sıklığı ve şiddeti
+2.Alıntı: Suriyeli mültecilerde travma sonrası stres bozukluğu taraması
+3.Alıntı: televizyon haberlerinde nefret söylemi: 233"biz
+4.Alıntı: Understanding state-civil society relations in education provision for non-camp syrian children in Turkey (Türkiye'de kamp dışı suriyeli çocuklar için
+eğitim sağlanmasında devlet-sivil toplum ilişkisini anlamak) isimli doktora
+tezinde çocukların eğitim sorunu ve STK'ların işleyişi gündeme gelmiştir.
+Suriyeliler üzerine yapılan tezlerin artışının diğer bir nedeni ise konu
+hakkında 2014 yılında Yükseköğretim Kurulu'nun (YÖK) üniversitelere
+"GİZLİ
+5.Alıntı: Geçici Koruma Yönetmeliği
+6.Alıntı: Demographic Mobility over Turkey: Migration Experiences and Government Responses
+7.Alıntı: Demographic Mobility over Turkey: Migration Experiences and Government Responses
+
+Alıntılarda beyaz font kullanımı bulunamamıştır.
+
+C3:M10 BİRİM KULLANIM KONTROLÜ
+
+Tez dosyasında birim kısaltma kullanılmamıştır.
